@@ -6,7 +6,7 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>gs-rest-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>REST Service</name>
+	<name>Getting Started: Building a RESTful Webservice</name>
 	<description>Building a RESTful web service with Spring.</description>
 
 	<parent>
